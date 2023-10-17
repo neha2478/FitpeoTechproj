@@ -1,0 +1,37 @@
+#graphbarcont{
+    margin-top: 2px;
+    margin-left: 40px;
+    width:45%;
+    height:270px;
+    border-radius: 2%;
+    background-color: white;
+
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0,0,0,0,0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.47); 
+    border-radius: 10px;
+}
+
+#graphbarcont:hover{
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+    border: none;
+}
+
+#graphbarcont #head{
+    font-size: 0.9rem;
+    padding:10px;
+}
+
+#graphA{
+    margin-left: 2px;
+}
+
+#head2{
+    margin: 0px 280px 10px 120px;
+    font-size: 1rem;
+}
+
+#select{
+    margin-left: 300px;
+    color:blueviolet
+}

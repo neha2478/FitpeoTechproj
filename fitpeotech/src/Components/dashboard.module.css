@@ -1,0 +1,38 @@
+/*Styling Dashboard*/
+
+#dashboardcont{
+    margin-top: 10px;
+}
+
+
+#myname{
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin-left: 35px;
+}
+
+/* #graphcont{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    height: 700px;
+
+} */
+
+#graphcont{
+    /* display: inline-block; */
+    /* flex-direction: column; */
+    /* justify-content: flex-start; */
+    /* border: 1px solid brown; */
+    max-height: 500px;
+}
+
+#graphcont #bgraph{
+ margin-top: 150px;
+}
+
+
+/* #graphcont #pgraph{
+    margin-left: 290px;
+} */

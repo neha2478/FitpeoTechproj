@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://img.freepik.com/free-vector/online-purchase-design-element-vector_53876-164168.jpg?w=740&t=st=1697303227~exp=1697303827~hmac=794e43652c22352ba1e6fc638fc6a4e34be1c6e7ced5abd0e0a3a24420a6aab5",
+        "cardname": "Earning",
+        "cost": "$198k",
+        "incpercent": "37.8% this month"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/order-concept-with-wooden-block-paper-basket-icon-blue-table-flat-lay-man-hand-pointing_176474-10443.jpg?w=996&t=st=1697346733~exp=1697347333~hmac=5948b6883b143d34950b323cfd63a731d36cc6c57a95aefc9ae33a594bfc7a05",
+        "cardname": "Orders",
+        "cost": "$2.4k",
+        "incpercent": "2% this month"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/online-purchase-design-element-vector_53876-164168.jpg?w=740&t=st=1697303227~exp=1697303827~hmac=794e43652c22352ba1e6fc638fc6a4e34be1c6e7ced5abd0e0a3a24420a6aab5",
+        "cardname": "Balance",
+        "cost": "$2.4k",
+        "incpercent": "2% this month"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/online-purchase-design-element-vector_53876-164168.jpg?w=740&t=st=1697303227~exp=1697303827~hmac=794e43652c22352ba1e6fc638fc6a4e34be1c6e7ced5abd0e0a3a24420a6aab5",
+        "cardname": "TotalSales",
+        "cost": "$89k",
+        "incpercent": "11% this week"
+    }
+]
